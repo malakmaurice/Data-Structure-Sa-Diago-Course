@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619984979 source:e:\data structure\san diego course\nestwork\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+
