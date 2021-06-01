@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619974448 source:e:\data structure\san diego course\tree height\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
