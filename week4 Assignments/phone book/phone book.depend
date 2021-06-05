@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622869085 source:e:\data structure\data-structure-sa-diago-course\week4 assignments\phone book\main.cpp
+	<iostream>
+	<map>
+	<fstream>
+
