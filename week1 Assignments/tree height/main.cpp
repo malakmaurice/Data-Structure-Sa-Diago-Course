@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    freopen("input.txt","r",stdin);
+    //freopen("input.txt","r",stdin);
     //freopen("output.txt","w",stdout);
     int n,max_height=1,x;
     vector<int>node;

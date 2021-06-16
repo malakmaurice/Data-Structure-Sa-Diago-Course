@@ -6,8 +6,8 @@ using namespace std;
 
 int main()
 {
-    freopen("input.txt","r",stdin);
-    freopen("output.txt","w",stdout);
+    //freopen("input.txt","r",stdin);
+    //freopen("output.txt","w",stdout);
     vector<int>time;
     queue<int>packets;
     int s,t,finish,a,p,start;
@@ -34,7 +34,7 @@ int main()
     }
     for(int i=0;i<t; i++)
     {
-        cout<<time[i];
+        cout<<time[i]<<"\n";
     }
     return 0;
 }

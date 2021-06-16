@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621788040 source:e:\data structure\san diego course\3_merging_tables\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+

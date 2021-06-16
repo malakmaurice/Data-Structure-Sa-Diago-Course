@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623821884 source:e:\data structure\data-structure-sa-diago-course\week4 assignments\hashing with chains\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	"algorithm"
+	"fstream"
+

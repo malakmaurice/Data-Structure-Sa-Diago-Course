@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621776430 source:e:\data structure\san diego course\make_heap\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
